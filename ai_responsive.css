@@ -1,0 +1,156 @@
+@media (max-width: 350px) {
+    #aiAppContainer {
+        max-width: 300px;
+    }
+    .aiCategories {
+        height: 550px;
+    }
+    #checkboxGrid label {
+        font-size: 16px;
+        padding: 5px;
+    }
+    #checkboxGrid label img {
+        width: 20px;
+    }
+    .buttons > div {
+        padding: 6px 7px 6px 7px;
+        font-size: 16px;
+    }
+    .scrollArrow {
+        display: block;
+    }
+    .aiResultsButton {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .aiResultsButton div {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .resultsTitle {
+        font-size: 20px;
+    }
+    .resultsEmail {
+        margin-bottom: 0px;
+    }
+    .resultsEmail input[type="text"] {
+        width: 200px;
+        height: 30px;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+    #aiResults div {
+        font-size: 18px;
+    }
+    #aiResults li {
+        font-size: 16px;
+    }
+    #aiResults2 li {
+        font-size: 16px;
+    }
+    #aiResults2 div {
+        font-size: 18px;
+    }
+}
+@media (max-width: 480px) and (min-width:350px) {
+    #aiAppContainer {
+        max-width: 300px;
+    }
+    .aiCategories {
+        height: 675px;
+    }
+    #checkboxGrid label {
+        font-size: 16px;
+        padding: 5px;
+    }
+    #checkboxGrid label img {
+        width: 20px;
+    }
+    .buttons > div {
+        padding: 6px 7px 6px 7px;
+        font-size: 20px;
+    }
+    .scrollArrow {
+        display: block;
+    }
+    .aiResultsButton {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .aiResultsButton div {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .resultsTitle {
+        font-size: 20px;
+    }
+    .resultsEmail {
+        margin-bottom: 0px;
+    }
+    .resultsEmail input[type="text"] {
+        width: 200px;
+        height: 30px;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 690px) and (min-width: 480px) {
+    #aiAppContainer {
+        max-width: 420px;
+    }
+    .scrollArrow {
+        display: block;
+    }
+    .aiResultsButton {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .aiResultsButton div {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .resultsTitle {
+        font-size: 20px;
+    }
+    .resultsEmail {
+        margin-bottom: 0px;
+    }
+    .resultsEmail input[type="text"] {
+        width: 200px;
+        height: 30px;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 1000px) and (min-width: 690px) {
+    #aiAppContainer {
+        max-width: 600px;
+    }
+    .scrollArrow {
+        display: block;
+    }
+    .resultsTitle {
+        font-size: 20px;
+    }
+    .aiResultsButton {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .aiResultsButton div {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 1300px) and (min-width: 1000px) {
+    #aiAppContainer {
+        max-width: 880px;
+    }
+    .aiResultsButton div {
+        margin-top: 20px;
+    }
+}
+@media (min-width: 1300px) {
+    #aiAppContainer {
+        max-width: 1100px;
+    }
+}
